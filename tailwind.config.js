@@ -16,6 +16,7 @@ module.exports = {
         lavender: "#E6E9F4",
         cornsilk: "#FFF7DE",
         frenchSkyBlue: "#81B1FF",
+        deepViolet: "#170d60",
       },
     },
   },
